@@ -19,9 +19,9 @@ Route::group(['middleware' => 'auth'],
 		Route::any('logout', 'Auth\LoginController@logout')->name('web.logout');
 	});
 
-Route::get('/m', function () {
-	return view('welcome');
-});
+// Route::get('/m', function () {
+// 	return view('welcome');
+// });
 
 
 Route::prefix('view')->group(function () {

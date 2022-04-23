@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "62c62c1be03fa9b09c07ed43256cd21c",
+    "content-hash": "ab3d72fb8b4dec4f1b1fe9ba94d41f4c",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -3442,64 +3442,6 @@
                 "source": "https://github.com/PhenX/php-svg-lib/tree/0.3.4"
             },
             "time": "2021-10-18T02:13:32+00:00"
-        },
-        {
-            "name": "phpanonymous/it",
-            "version": "1.6.37",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/arabnewscms/it.git",
-                "reference": "670e8acc73ceb502954c22f30b8874aedcb0109a"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/arabnewscms/it/zipball/670e8acc73ceb502954c22f30b8874aedcb0109a",
-                "reference": "670e8acc73ceb502954c22f30b8874aedcb0109a",
-                "shasum": ""
-            },
-            "require": {
-                "laravel/framework": "^8.0",
-                "php": ">= 7.4.12"
-            },
-            "type": "package",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "1.6.37.x-dev"
-                },
-                "laravel": {
-                    "providers": [
-                        "Phpanonymous\\It\\ItApplication"
-                    ],
-                    "aliases": []
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Phpanonymous\\It\\": "it/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Mahmoud Ibrahim",
-                    "email": "php.anonymous1@gmail.com",
-                    "homepage": "https://it.phpanonymous.com"
-                }
-            ],
-            "description": "Unleash your imagination and be creative",
-            "keywords": [
-                "It application With It-platinum",
-                "laravel",
-                "php"
-            ],
-            "support": {
-                "issues": "https://github.com/arabnewscms/it/issues",
-                "source": "https://github.com/arabnewscms/it/tree/1.6.37"
-            },
-            "time": "2021-12-21T16:55:00+00:00"
         },
         {
             "name": "phpoffice/phpspreadsheet",
