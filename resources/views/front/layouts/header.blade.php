@@ -37,5 +37,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="author" content="RomAtMe.com">
     <link href="{{ url('assets') }}/front/images/favicon.png" rel="icon" type="image/png">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7GE4JSS7S1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7GE4JSS7S1');
+</script>
 </head>
 <body>
